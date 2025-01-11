@@ -1,7 +1,7 @@
 # i'm divine..
 
 <div align="center">
-  <img src="https://media.discordapp.net/attachments/1327356835006779412/1327750115330490379/download_11.gif?ex=67843327&is=6782e1a7&hm=ff384e62a8affbb38dc436272fafe82600b1fe40dacc61ae4e831e9980905f68&=&width=519&height=297" width="100%" alt="Banner"/>
+  <img src="https://cdn.discordapp.com/attachments/1316419652544630806/1325849537239191643/2e7f2ff362787eded5cc761c910b9aa1.gif" width="100%" alt="Banner"/>
   
   <img src="https://komarev.com/ghpvc/?username=divinewtf&style=flat-square&color=blueviolet" alt="Profile Views"/>
   
@@ -52,5 +52,3 @@ socials = {
 <div align="center">
   <i>Divine</i>
 </div>
-
-(https://cdn.discordapp.com/attachments/1316419652544630806/1325849537239191643/2e7f2ff362787eded5cc761c910b9aa1.gif)
