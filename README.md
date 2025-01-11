@@ -53,3 +53,4 @@ socials = {
   <i>Divine</i>
 </div>
 
+(https://cdn.discordapp.com/attachments/1316419652544630806/1325849537239191643/2e7f2ff362787eded5cc761c910b9aa1.gif)
