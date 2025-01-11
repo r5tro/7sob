@@ -17,7 +17,7 @@ class Divine:
     def __init__(self):
         self.name = "Divine"
         self.discord = "@hidivine"
-        self.projects = ["Discord Bots", "Self-bot", "Zephyr Products"]
+        self.projects = ["Discord Bots", "Self-bot", "Islanders"]
         self.interests = ["Bot Development", "API Design", "Security", "Discord Development"]
 ```
 
