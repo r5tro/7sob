@@ -5,7 +5,7 @@
   
   <img src="https://komarev.com/ghpvc/?username=divinewtf&style=flat-square&color=blueviolet" alt="Profile Views"/>
   
-  [![Guns.lol](https://img.shields.io/badge/Website-guns.lol-blueviolet?style=flat-square)](https://guns.lol/divinewtf)
+  [![Guns.lol](https://img.shields.io/badge/Socials-guns.lol-blueviolet?style=flat-square)](https://guns.lol/divinewtf)
   [![Discord](https://img.shields.io/badge/Discord-Join%20Now-7289DA?style=flat-square&logo=discord)](https://discord.gg/lainbot)
 
   <img src="https://lanyard.cnrad.dev/api/871016662441279559?theme=dark&hideClan=true&hideBadges=true&hideDiscrim=false"/>
