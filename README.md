@@ -1,11 +1,11 @@
 # i'm divine..
 
 <div align="center">
-  <img src="https://images-ext-1.discordapp.net/external/GvD6aOWcZPDwoSGlVpbnHlXKHkv9zFFoGT6YsuM9in8/%3Fsize%3D1024%26format%3Dwebp%26width%3D563%26height%3D563/https/cdn.discordapp.com/avatars/871016662441279559/98bf2c2d9342ad7ea2e04b7a1bd6cec6.webp?format=webp&width=671&height=671" width="100%" alt="Banner"/>
+  <img src="https://media.discordapp.net/attachments/1327356835006779412/1327750115330490379/download_11.gif?ex=67843327&is=6782e1a7&hm=ff384e62a8affbb38dc436272fafe82600b1fe40dacc61ae4e831e9980905f68&=&width=519&height=297" width="100%" alt="Banner"/>
   
   <img src="https://komarev.com/ghpvc/?username=divinewtf&style=flat-square&color=blueviolet" alt="Profile Views"/>
   
-  [![Guns.lol](https://img.shields.io/badge/Website-lain.wtf-blueviolet?style=flat-square)](https://guns.lol/divinewtf)
+  [![Guns.lol](https://img.shields.io/badge/Website-guns.lol-blueviolet?style=flat-square)](https://guns.lol/divinewtf)
   [![Discord](https://img.shields.io/badge/Discord-Join%20Now-7289DA?style=flat-square&logo=discord)](https://discord.gg/lainbot)
 
   <img src="https://lanyard.cnrad.dev/api/871016662441279559?theme=dark&hideClan=true&hideBadges=true&hideDiscrim=false"/>
@@ -52,3 +52,4 @@ socials = {
 <div align="center">
   <i>Divine</i>
 </div>
+
