@@ -20,12 +20,6 @@ I am a learning developer, </br>
 - Tailwind
 </img>
 
-### Mostly worked on module
-
-
-
-<!-- py -->
-<a align="left" href="https://github.com/cop-discord?tab=repositories" target="_blank"><img alt="Java" src="https://img.shields.io/badge/-Java-3776AB?style=flat-square&logo=Java&logoColor=white"></a>
 
 
 
@@ -36,17 +30,10 @@ I am a learning developer, </br>
 <table width="100%" align="center">
   <tr>
     <td>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cop-discord&show_icons=true&theme=r5tro" /> </td>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=r5tro&show_icons=true&theme=r5tro" /> </td>
 <td> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r5tro&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/> </td>  
   
   </tr>
  <table>
-<p align="left">
-  <a href="https://github.com/cop-discord/rival"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cop-discord&repo=rival&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"></a>
-  <a href="https://github.com/cop-discord/button_paginator"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cop-discord&repo=button_paginator&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"></a>
-
-
-
-</p>
 
 
